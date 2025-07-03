@@ -51,6 +51,8 @@ Users can scan QR codes to borrow, return, or check details of books, streamlini
 ## 📫 How to Reach Me
 
 - [GitHub Profile](https://github.com/kushagramishra22)
+- [Gmail](kushagra.personal.work@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/kushagra-mishra22/)
 
 ---
 

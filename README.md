@@ -49,10 +49,14 @@ Users can scan QR codes to borrow, return, or check details of books, streamlini
 ---
 
 ## 📫 How to Reach Me
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushagra.personal.work@gmail.com)
 
-- [GitHub Profile](https://github.com/kushagramishra22)
-- [Gmail](kushagra.personal.work@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/kushagra-mishra22/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushagra-mishra22/)
+
+- [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/your-username/)
+
+- [![Github](https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=grey)](https://github.com/kushagramishra22)
+
 
 ---
 

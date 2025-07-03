@@ -29,7 +29,7 @@ I'm passionate about web development and love turning ideas into real-world appl
 ## 🌟 Top Projects
 
 <!-- Pin your best projects here by editing this section. Example: -->
-- AI Image Generator Tool (JavaScript) (https://github.com/kushagramishra22/AI_image_generator)Turn your text prompts into stunning images in seconds with this JavaScript-powered AI Image Generator!
+- [AI Image Generator Tool (JavaScript)](https://github.com/kushagramishra22/AI_image_generator) Turn your text prompts into stunning images in seconds with this JavaScript-powered AI Image Generator!
 This project uses the ClipDrop API (text-to-image) to generate images from user input, providing a simple web interface to create, view, and download AI-generated images.
 
 ✨ Features
@@ -38,7 +38,8 @@ Responsive Web UI: Clean, mobile-friendly interface built with HTML, CSS, and va
 Multiple Image Support: Choose how many images to generate (easily extendable).
 Instant Download: Download generated images directly from the gallery.
 Loading Indicators: See when images are being generated with a visual loader..
-- Librix: A QR-Based Library Management Tool (https://github.com/kushagramishra22/Librix_a-library-managment-tool) Librix is an innovative web-based library management application that leverages QR code technology to simplify and automate book and user management. Designed for both librarians and patrons, Librix ensures efficient tracking of resources, seamless borrowing operations, and an organized catalog system.
+
+- [Librix: A QR-Based Library Management Tool](https://github.com/kushagramishra22/Librix_a-library-managment-tool) Librix is an innovative web-based library management application that leverages QR code technology to simplify and automate book and user management. Designed for both librarians and patrons, Librix ensures efficient tracking of resources, seamless borrowing operations, and an organized catalog system.
 
 🚀 Key Features
 📱 QR Code Integration
@@ -54,3 +55,7 @@ Users can scan QR codes to borrow, return, or check details of books, streamlini
 ---
 
 *Feel free to explore my repositories and connect!*
+
+
+
+

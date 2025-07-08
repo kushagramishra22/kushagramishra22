@@ -3,6 +3,8 @@
 💻 **Software Developer | MERN Stack**  
 Proficient in building web applications using HTML, CSS, JavaScript, and React. Experienced in Node.js, Express.js, MongoDB.
 
+![image](https://github.com/user-attachments/assets/53df4661-2f80-45de-b534-3ee4dcc1b0bf)
+
 ---
 
 ## 🚀 About Me

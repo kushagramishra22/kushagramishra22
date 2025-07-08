@@ -18,6 +18,7 @@ I'm passionate about web development and love turning ideas into real-world appl
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
+- **Language:** JAVA, C++, C
 - **Other:** REST APIs, Git & GitHub
 
 ---

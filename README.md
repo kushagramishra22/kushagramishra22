@@ -3,7 +3,7 @@
 💻 **Software Developer | MERN Stack**  
 Proficient in building web applications using HTML, CSS, JavaScript, and React. Experienced in Node.js, Express.js, MongoDB.
 
-![image](https://github.com/user-attachments/assets/53df4661-2f80-45de-b534-3ee4dcc1b0bf)
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b">
 
 ---
 

@@ -56,7 +56,7 @@ Users can scan QR codes to borrow, return, or check details of books, streamlini
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushagra-mishra22/)
 
-- [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/your-username/)
+- [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/kushagra-mishra22/)
 
 - [![Github](https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=grey)](https://github.com/kushagramishra22)
 
